@@ -1,0 +1,48 @@
+,,
+(быть) похож на NP-Acc,Вася похож на папу,Compar
+(пойти) весь в NP-Acc,Он пошел весь в отца,Compar
+всё тот же NP,,Sameness
+всё Adj-Cmp/Adv-Cmp и Adj-Cmp/Adv-Cmp,,Compar
+всё Adv-Cmp/Adj-Cmp,,Compar
+гораздо Adj-Cmp/Adv-Cmp,,Compar
+далеко до NP-Gen,,Compar
+ещё Adv/Adj-ее,,Compar
+как будто Cl,,Compar
+"как NP, так и NP",,Sameness
+"как VP, так и VP",,Sameness
+кто-то вроде NP-Gen,,Compar
+куда Adj-Сmp,,Compar
+куда NP-Dat до NP-Gen,,Compar
+наи-А-ший из NP-Gen.Plur,,Compar
+наиболее/наименее Adj из NP-Gen.Plur,,Compar
+"не столь(ко) Adj, сколь(ко) Adj",,Compar
+не так уж (и) Adj-Short,,Compar
+не такой уж и Adj,,Compar
+"не то чтобы Adv-Cmp/Adj-Cmp NP-Gen.Plur, но Adv-Cmp/Adj-Cmp",,Compar
+не то чтобы Cl а/но Cl,,Compar
+"не Noun, а Noun-ище",,Compar ?
+"не Noun, а NP",,Compar ?
+ничем не Adj-Cmp NP-Gen,,Sameness
+ничуть не Adj-Cmp/Adv-Cmp,,Sameness
+одинаково XP,,Sameness
+самый AP в NP-Loc,,Compar
+самый AP за NP-Acc,,Compar
+самый AP из NP-Gen,,Compar
+самый AP среди NP-Gen,,Compar
+такой же XP как и NP,,Sameness
+такой NP как/какой/который XP Cl,,Compar
+"такой NP, как NP-Nom, Cl",,Compar
+то ли дело NP,,Compar
+чем Adj-Cmp/Adv-Cmp тем Adj-Cmp/Adv-Cmp,,Compar
+что-то вроде NP-Gen,,Compar
+Adj-йший из NP-Gen.Plur,,Compar
+Adj-Cmp всех,,Compar
+Adv-Cmp/Adj-Cmp NP-Gen,,Compar
+"DiscCl так, Cl",,Compar
+NP-Nom (быть) как NP-Nom,,Compar
+"NP-Nom Adv-Cmp, чем NP-Nom",,Compar
+NP-Nom NP-Dat рознь,,Compar
+"NP-Nom VP точно так же, как (и) NP-Nom",,Sameness
+"NP-Nom VP, не то что NP-Nom",,Compar
+NP-Plur один другой-Gen Adj-Cmp,,Compar
+VP лучше/не хуже Pron-Gen,,Compar
